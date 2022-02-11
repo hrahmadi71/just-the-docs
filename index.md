@@ -2,17 +2,17 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "ACMA smart agents are agents built with Deep Q-learning method upon the old ACMA tool to refactor software systems"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# What is ACMA DQN-based agents?
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+ACMA DQN-based agents are three agents built with Deep Q-learning method upon the old ACMA tool to refactor software systems. They contain two tools which must be run together: 1) custom ACMA tool and 2) its DQN Server.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View ACMA on GitHub](https://github.com/hrahmadi71/a-cma){: .btn .bg-red-000 .text-grey-lt-000 .fs-5 .mb-4 .mb-md-0 .mr-2 } [View DQN Server on GitHub](https://github.com/hrahmadi71/acma_dqn_server){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
